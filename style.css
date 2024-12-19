@@ -4,11 +4,14 @@ body {
 }
 
 h1 {
-    color: green;
+    color: red;
     font-size: 24px;
 }
 
 p {
-    color: red;
+    color: blue;
     font-size: 16px;
+}
+button {
+    background-color: gray;
 }
